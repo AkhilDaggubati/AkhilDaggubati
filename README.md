@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkhilDaggubati
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Frontend Development
 - 📫 How to reach me akhilbabu@usf.edu
 
 <!---
